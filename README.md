@@ -1,3 +1,3 @@
-# *hi, this is the home website for therealtin <3*
+### *hi, welcome to the home website of therealtin <3*
 
 
